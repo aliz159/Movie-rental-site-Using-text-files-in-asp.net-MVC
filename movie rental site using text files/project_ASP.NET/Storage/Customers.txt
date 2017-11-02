@@ -1,0 +1,9 @@
+﻿Aliza,Monthly,24
+Sarit,Monthly,20
+Ronit,Annual,58
+hagit,Quarterly,26
+Aviv,Pay as you go,33
+Rami,Annual,26
+Orly,Pay as you go,63
+Yakov,Annual,49
+Moria,Quarterly,29
